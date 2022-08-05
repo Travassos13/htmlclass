@@ -1,0 +1,13 @@
+div{
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+    text-align: center;
+}
+
+p{
+    padding: 15px;
+    text-align: justify;
+   
+}
